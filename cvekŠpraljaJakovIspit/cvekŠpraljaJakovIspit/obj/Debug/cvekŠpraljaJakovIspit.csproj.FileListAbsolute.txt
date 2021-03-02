@@ -1,0 +1,11 @@
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\bin\Debug\cvekŠpraljaJakovIspit.exe.config
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\bin\Debug\cvekŠpraljaJakovIspit.exe
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\bin\Debug\cvekŠpraljaJakovIspit.pdb
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.Form1.resources
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.Form2.resources
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.Properties.Resources.resources
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.csproj.GenerateResource.cache
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.exe
+C:\Users\Učenik 5\source\repos\cvekŠpraljaJakovIspit\cvekŠpraljaJakovIspit\obj\Debug\cvekŠpraljaJakovIspit.pdb
